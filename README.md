@@ -1,5 +1,3 @@
-{% include _config.yml %}
-
 ## | **` PATAdvancedLevelProgram`**|**` PATTopLevelProgram`**|
 
 * ## by Zhangmin Wang
