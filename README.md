@@ -1,4 +1,4 @@
-{% include footer.html %}
+{% include _config.yml %}
 
 ## | **` PATAdvancedLevelProgram`**|**` PATTopLevelProgram`**|
 
