@@ -6,6 +6,6 @@
 
 |**`PATAdvancedLevelProgram`**|**`PATTopLevelProgram`**|
 |-------------------|-------------------|
-|[!**`by Zhangmin Wang`** ]|
+|**`by Zhangmin Wang`** |
 
 参考：https://github.com/liuchuo/PAT
