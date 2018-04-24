@@ -1,7 +1,6 @@
 ----------
 
 ## | **` PATAdvancedLevelProgram`**|**` PATTopLevelProgram`**|
-|-------------------|-------------------|
 
 * ## by Zhangmin Wang
 
