@@ -5,7 +5,7 @@
 ----------
 
 <div align="center">
-  <img src="https://www.patest.cn/p/img/slider/robot1.png"><br><br>
+  <img src="https://www.patest.cn/p/img/slider/robot1.png" height="100" width="100"/>
 </div>
 
 ----------
